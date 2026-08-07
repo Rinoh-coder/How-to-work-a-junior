@@ -2,9 +2,8 @@
 # AUTRES METHODES DE GESTION DE PROJET  
 
 ## WATERFALL MODEL 
-
-Avant La methode Agile, voici la methode de gestion de projet la plus populaire : **Waterfall Model (modèle en cascade).**  
-Le modèle en cascade tente de terminer chaque phase avant de passer à la suivante, mais comporte des boucles de rétroaction intégrées qui vous permettent de revenir à la précédente si vous découvrez des problèmes. Ainsi, la progression s’écoule d’une étape à l’autre, telle une cascade !  
+ 
+Le ***modèle en cascade*** tente de terminer chaque phase avant de passer à la suivante, mais comporte des boucles de rétroaction intégrées qui vous permettent de revenir à la précédente si vous découvrez des problèmes. Ainsi, la progression s’écoule d’une étape à l’autre, telle une cascade !  
 
 ### Les 6 étapes classiques du modèle
 
@@ -40,7 +39,7 @@ Contrairement au modèle Waterfall (en cascade) où l'on livre tout d'un coup à
 
 ------------------------------
 ### Le concept clé : "Répéter pour améliorer"
-Dans un projet itératif, le projet global est découpé en plusieurs petites portions de temps (souvent appelées Sprints de 2 à 4 semaines).  
+Dans un projet itératif, le projet global est découpé en plusieurs petites portions de temps.  
 Chaque itération est un mini-projet en soi qui passe par toutes les phases :  
 
    1. Planification
@@ -58,14 +57,6 @@ Chaque itération est un mini-projet en soi qui passe par toutes les phases :
 * Feedback utilisateur précoce : Les utilisateurs testent le produit dès les premières semaines. Leurs retours guident directement la suite du développement.
 * Gestion des risques : Les erreurs d'architecture ou de compréhension des besoins sont détectées immédiatement, et non lors de la livraison finale.
 * Valeur métier rapide : Le client possède un logiciel qui fonctionne très tôt, même si toutes les fonctionnalités ne sont pas encore présentes.
-
-------------------------------
-
-### La différence cruciale : Incrémental vs Itératif
-On associe souvent les deux termes (Développement Itératif et Incrémental), mais ils désignent deux notions distinctes :
-
-* Incrémental (Ajouter des morceaux) : Vous construisez le produit partie par partie. Exemple : Semaine 1 = Page d'accueil, Semaine 2 = Page de paiement.  
-* Itératif (Affiner le tout) : Vous construisez d'abord une version globale très simple, puis vous la perfectionnez. Exemple : Semaine 1 = Un site web basique en texte, Semaine 2 = Ajout du design graphique, Semaine 3 = Optimisation de la vitesse.
 
 ------------------------------
 
